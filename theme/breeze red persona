@@ -1,0 +1,9 @@
+red:
+Selection Background: #fc0000
+Focus Decoration: #e96b6b
+Hover Decoration: #e99898
+
+Alternate Background: #ec0000
+
+blue:
+Negative Text: #439eda
