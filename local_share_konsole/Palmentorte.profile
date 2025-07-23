@@ -2,7 +2,7 @@
 AntiAliasFonts=true
 BoldIntense=true
 ColorScheme=Palmentorte
-Font=Hack,10,-1,5,700,0,0,0,0,0,0,0,0,0,0,1,Bold
+Font=Maple Mono NF CN,16,-1,5,500,0,0,0,0,0,0,0,0,0,0,1,Medium
 UseFontLineChararacters=false
 
 [General]
